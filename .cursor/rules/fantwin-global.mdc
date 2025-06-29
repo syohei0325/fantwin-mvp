@@ -1,0 +1,9 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+Rule name: fantwin-global
+File patterns: **/*
+Rule type: File
+Rule content: .cursor/rules/global.mdc

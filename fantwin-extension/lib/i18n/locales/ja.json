@@ -1,0 +1,173 @@
+{
+  "common": {
+    "loading": "読み込み中...",
+    "error": "エラーが発生しました",
+    "retry": "再試行",
+    "cancel": "キャンセル",
+    "confirm": "確認",
+    "save": "保存",
+    "close": "閉じる",
+    "edit": "編集",
+    "delete": "削除",
+    "copy": "コピー",
+    "send": "送信",
+    "generate": "生成",
+    "settings": "設定"
+  },
+  
+  "extension": {
+    "title": "FanTwin - AI DM アシスタント",
+    "subtitle": "世界中のクリエイターと繋がろう",
+    "status": {
+      "connected": "接続済み",
+      "disconnected": "未接続",
+      "loading": "接続中..."
+    }
+  },
+
+  "dm": {
+    "generator": {
+      "title": "DM生成",
+      "placeholder": "返信したいメッセージを入力してください...",
+      "generate": "返信を生成",
+      "regenerate": "再生成",
+      "copy": "返信をコピー",
+      "send": "返信を送信",
+      "generating": "返信を生成中...",
+      "success": "返信が生成されました",
+      "error": "返信生成に失敗しました"
+    },
+    "language": {
+      "select": "返信言語を選択",
+      "auto": "自動検出",
+      "change": "言語を変更"
+    }
+  },
+
+  "language": {
+    "selector": {
+      "title": "言語設定",
+      "current": "現在の言語",
+      "available": "利用可能な言語",
+      "auto_detect": "自動検出"
+    },
+    "names": {
+      "en": "English",
+      "ja": "日本語", 
+      "ko": "한국어",
+      "zh": "中文 (简体)",
+      "zh-TW": "中文 (繁體)",
+      "es": "Español",
+      "fr": "Français",
+      "de": "Deutsch",
+      "pt": "Português",
+      "it": "Italiano",
+      "ru": "Русский"
+    }
+  },
+
+  "guardian": {
+    "title": "Guardian AI",
+    "status": {
+      "active": "アクティブ",
+      "inactive": "非アクティブ",
+      "checking": "チェック中..."
+    },
+    "features": {
+      "toxicity": "有害コンテンツ検知",
+      "reputation": "URL評価",
+      "shadow_ban": "シャドウバン検知"
+    },
+    "stats": {
+      "blocked": "ブロック済み",
+      "checked": "チェック済み",
+      "accuracy": "精度"
+    }
+  },
+
+  "wallet": {
+    "title": "Fan Wallet",
+    "balance": "残高",
+    "send": "送金",
+    "receive": "受取",
+    "history": "履歴",
+    "currency": "通貨",
+    "amount": "金額",
+    "recipient": "送金先",
+    "transfer_time": "3秒送金",
+    "kyc_required": "本人確認が必要です"
+  },
+
+  "dashboard": {
+    "title": "クリエイター ダッシュボード",
+    "analytics": "分析",
+    "settings": "設定",
+    "guardian_settings": "Guardian AI設定",
+    "wallet_management": "Wallet管理",
+    "language_preferences": "言語設定"
+  },
+
+  "dev_campus": {
+    "title": "開発者キャンパス",
+    "courses": "講座",
+    "playground": "プレイグラウンド",
+    "marketplace": "マーケットプレイス",
+    "docs": "ドキュメント",
+    "api_reference": "API リファレンス",
+    "sdk": "SDK",
+    "certification": "認定",
+    "badge": "バッジ"
+  },
+
+  "pricing": {
+    "free": {
+      "title": "Free",
+      "price": "¥0",
+      "features": [
+        "月30kトークン",
+        "基本DM生成",
+        "1言語対応"
+      ]
+    },
+    "trial": {
+      "title": "Trial",
+      "price": "14日間無料",
+      "features": [
+        "月150kトークン",
+        "多言語β 30kトークン",
+        "10言語対応"
+      ]
+    },
+    "pro": {
+      "title": "Pro",
+      "price": "¥600/月",
+      "features": [
+        "月150kトークン",
+        "多言語 + Guardian AI",
+        "Fan Wallet機能",
+        "優先サポート"
+      ]
+    }
+  },
+
+  "onboarding": {
+    "welcome": "FanTwin へようこそ！",
+    "step1": "言語を選択してください",
+    "step2": "Guardian AI を設定",
+    "step3": "最初のDMを生成してみましょう",
+    "complete": "セットアップ完了！",
+    "skip": "スキップ",
+    "next": "次へ",
+    "prev": "戻る"
+  },
+
+  "errors": {
+    "network": "ネットワークエラーが発生しました",
+    "auth": "認証に失敗しました",
+    "rate_limit": "レート制限に達しました",
+    "translation": "翻訳に失敗しました",
+    "guardian": "Guardian AI エラー",
+    "wallet": "Wallet エラー",
+    "unknown": "不明なエラーが発生しました"
+  }
+} 

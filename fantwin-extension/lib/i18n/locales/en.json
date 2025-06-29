@@ -1,0 +1,173 @@
+{
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "retry": "Retry",
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "save": "Save",
+    "close": "Close",
+    "edit": "Edit",
+    "delete": "Delete",
+    "copy": "Copy",
+    "send": "Send",
+    "generate": "Generate",
+    "settings": "Settings"
+  },
+  
+  "extension": {
+    "title": "FanTwin - AI DM Assistant",
+    "subtitle": "Connect with creators worldwide",
+    "status": {
+      "connected": "Connected",
+      "disconnected": "Disconnected",
+      "loading": "Connecting..."
+    }
+  },
+
+  "dm": {
+    "generator": {
+      "title": "DM Generator",
+      "placeholder": "Enter the message you want to reply to...",
+      "generate": "Generate Reply",
+      "regenerate": "Regenerate",
+      "copy": "Copy Reply",
+      "send": "Send Reply",
+      "generating": "Generating reply...",
+      "success": "Reply generated successfully",
+      "error": "Failed to generate reply"
+    },
+    "language": {
+      "select": "Select reply language",
+      "auto": "Auto-detect",
+      "change": "Change language"
+    }
+  },
+
+  "language": {
+    "selector": {
+      "title": "Language Settings",
+      "current": "Current Language",
+      "available": "Available Languages",
+      "auto_detect": "Auto-detect"
+    },
+    "names": {
+      "en": "English",
+      "ja": "日本語", 
+      "ko": "한국어",
+      "zh": "中文 (简体)",
+      "zh-TW": "中文 (繁體)",
+      "es": "Español",
+      "fr": "Français",
+      "de": "Deutsch",
+      "pt": "Português",
+      "it": "Italiano",
+      "ru": "Русский"
+    }
+  },
+
+  "guardian": {
+    "title": "Guardian AI",
+    "status": {
+      "active": "Active",
+      "inactive": "Inactive",
+      "checking": "Checking..."
+    },
+    "features": {
+      "toxicity": "Toxicity Detection",
+      "reputation": "URL Reputation",
+      "shadow_ban": "Shadow Ban Detection"
+    },
+    "stats": {
+      "blocked": "Blocked",
+      "checked": "Checked",
+      "accuracy": "Accuracy"
+    }
+  },
+
+  "wallet": {
+    "title": "Fan Wallet",
+    "balance": "Balance",
+    "send": "Send",
+    "receive": "Receive",
+    "history": "History",
+    "currency": "Currency",
+    "amount": "Amount",
+    "recipient": "Recipient",
+    "transfer_time": "3-second transfer",
+    "kyc_required": "KYC verification required"
+  },
+
+  "dashboard": {
+    "title": "Creator Dashboard",
+    "analytics": "Analytics",
+    "settings": "Settings",
+    "guardian_settings": "Guardian AI Settings",
+    "wallet_management": "Wallet Management",
+    "language_preferences": "Language Preferences"
+  },
+
+  "dev_campus": {
+    "title": "Developer Campus",
+    "courses": "Courses",
+    "playground": "Playground",
+    "marketplace": "Marketplace",
+    "docs": "Documentation",
+    "api_reference": "API Reference",
+    "sdk": "SDK",
+    "certification": "Certification",
+    "badge": "Badge"
+  },
+
+  "pricing": {
+    "free": {
+      "title": "Free",
+      "price": "$0",
+      "features": [
+        "30k tokens/month",
+        "Basic DM generation",
+        "1 language support"
+      ]
+    },
+    "trial": {
+      "title": "Trial",
+      "price": "14 days free",
+      "features": [
+        "150k tokens/month",
+        "Multi-language β 30k tokens",
+        "10 language support"
+      ]
+    },
+    "pro": {
+      "title": "Pro",
+      "price": "$5/month",
+      "features": [
+        "150k tokens/month",
+        "Multi-language + Guardian AI",
+        "Fan Wallet features",
+        "Priority support"
+      ]
+    }
+  },
+
+  "onboarding": {
+    "welcome": "Welcome to FanTwin!",
+    "step1": "Select your language",
+    "step2": "Configure Guardian AI",
+    "step3": "Let's generate your first DM",
+    "complete": "Setup complete!",
+    "skip": "Skip",
+    "next": "Next",
+    "prev": "Previous"
+  },
+
+  "errors": {
+    "network": "Network error occurred",
+    "auth": "Authentication failed",
+    "rate_limit": "Rate limit reached",
+    "translation": "Translation failed",
+    "guardian": "Guardian AI error",
+    "wallet": "Wallet error",
+    "unknown": "Unknown error occurred"
+  }
+} 
